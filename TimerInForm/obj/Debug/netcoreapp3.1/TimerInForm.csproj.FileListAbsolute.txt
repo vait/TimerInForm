@@ -1,0 +1,15 @@
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.exe
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.deps.json
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.runtimeconfig.json
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.runtimeconfig.dev.json
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.dll
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\bin\Debug\netcoreapp3.1\TimerInForm.pdb
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.csprojAssemblyReference.cache
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.Form1.resources
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.csproj.GenerateResource.cache
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.AssemblyInfoInputs.cache
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.AssemblyInfo.cs
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.csproj.CoreCompileInputs.cache
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.dll
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.pdb
+d:\Documents\vait\My Project\TestProjects\1\TimerInForm\TimerInForm\obj\Debug\netcoreapp3.1\TimerInForm.genruntimeconfig.cache
